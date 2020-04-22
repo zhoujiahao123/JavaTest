@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bd46347e-6211-4f63-8114-9bd46570e836" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QbZrzAQi9Eim73jN0rkYvMa2AN" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java-master/day12/code/day12_Scanner" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jacob\IdeaProjects\javaTest\src\day05\method" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.NIOClient">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day05.fanxing.Main" />
+      <module name="javaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day05.fanxing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NIOClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NIO.client.NIOClient" />
+      <module name="javaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NIO.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NIOServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NIO.server.NIOServer" />
+      <module name="javaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NIO.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day05.enterKey.Solution" />
+      <module name="javaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day05.enterKey.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day05.Test" />
+      <module name="javaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <RunnerSettings RunnerId="Debug with VisualVM">
+        <option name="visualVMId" value="2412894209244000" />
+      </RunnerSettings>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.NIOServer" />
+      <item itemvalue="Application.NIOClient" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NIOClient" />
+        <item itemvalue="Application.NIOServer" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd46347e-6211-4f63-8114-9bd46570e836" name="Default Changelist" comment="" />
+      <created>1568041458452</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568041458452</updated>
+      <workItem from="1568041459622" duration="540000" />
+      <workItem from="1568042011853" duration="4000" />
+      <workItem from="1568073706174" duration="3662000" />
+      <workItem from="1568106905040" duration="2009000" />
+      <workItem from="1568211486964" duration="3000" />
+      <workItem from="1568211649217" duration="116000" />
+      <workItem from="1568213989880" duration="208000" />
+      <workItem from="1568214709235" duration="634000" />
+      <workItem from="1568250399288" duration="30000" />
+      <workItem from="1568299995097" duration="1494000" />
+      <workItem from="1568337843229" duration="600000" />
+      <workItem from="1568547833885" duration="1253000" />
+      <workItem from="1568703492417" duration="2308000" />
+      <workItem from="1568817384264" duration="1297000" />
+      <workItem from="1568879343755" duration="9000" />
+      <workItem from="1569074507909" duration="874000" />
+      <workItem from="1569121410432" duration="559000" />
+      <workItem from="1569319146829" duration="3000" />
+      <workItem from="1569319156180" duration="3242000" />
+      <workItem from="1569322455701" duration="2000" />
+      <workItem from="1569323995058" duration="453000" />
+      <workItem from="1569330049757" duration="645000" />
+      <workItem from="1569582799132" duration="6555000" />
+      <workItem from="1569634777578" duration="2670000" />
+      <workItem from="1569656860165" duration="6703000" />
+      <workItem from="1569746204094" duration="7000" />
+      <workItem from="1569894037739" duration="1437000" />
+      <workItem from="1570529902644" duration="963000" />
+      <workItem from="1570619749852" duration="26000" />
+      <workItem from="1570619784160" duration="34000" />
+      <workItem from="1570632896684" duration="703000" />
+      <workItem from="1570781357936" duration="49000" />
+      <workItem from="1574737060492" duration="2007000" />
+      <workItem from="1574771009827" duration="16000" />
+      <workItem from="1575595139392" duration="2489000" />
+      <workItem from="1575600682104" duration="6000" />
+      <workItem from="1578360424875" duration="3624000" />
+      <workItem from="1578446176760" duration="13000" />
+      <workItem from="1578450591604" duration="7025000" />
+      <workItem from="1578472309288" duration="330000" />
+      <workItem from="1578472658494" duration="2135000" />
+      <workItem from="1578533756653" duration="996000" />
+      <workItem from="1578559123413" duration="1702000" />
+      <workItem from="1578618522386" duration="2530000" />
+      <workItem from="1578627714410" duration="350000" />
+      <workItem from="1578885835567" duration="5000" />
+      <workItem from="1580704069636" duration="2007000" />
+      <workItem from="1580715774350" duration="626000" />
+      <workItem from="1580780399150" duration="336000" />
+      <workItem from="1581647124275" duration="29000" />
+      <workItem from="1581666295388" duration="79000" />
+      <workItem from="1581679240093" duration="641000" />
+      <workItem from="1584359931350" duration="25000" />
+      <workItem from="1584364062956" duration="24000" />
+      <workItem from="1586485535811" duration="323000" />
+      <workItem from="1586572741218" duration="1649000" />
+      <workItem from="1586579796408" duration="5690000" />
+      <workItem from="1586591311974" duration="107000" />
+      <workItem from="1586603521851" duration="37000" />
+      <workItem from="1587531093233" duration="4176000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

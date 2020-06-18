@@ -7,7 +7,12 @@ public class ThreadLocalVariableHolder {
         private Random rand = new Random(47);
         protected synchronized Integer initialValue() {
             return rand.nextInt(10000);
-
         }
     };
+    public void setValue(){
+        value.set(value.get() + 1);
+    }
+    public int getValue(){
+        return value.get();
+    }
 }
